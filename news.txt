@@ -1,2 +1,1 @@
-
-test
+The "Enable Dev Inventory" button has been moved to settings. Reminder: Dev Inventory is not for granting cosmetics but instead for having unreleased creative weapons in your island.
